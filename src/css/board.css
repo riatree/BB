@@ -1,0 +1,18 @@
+* {
+    margin: 0; padding: 0;
+}
+
+.board-container{
+    width:100%;
+    background-color: silver;
+}
+.gameBoard-wrap{
+    position: left;
+    width: 500px;
+    margin-left: 100px;
+}
+.broadcastBoard-wrap{
+    position: right;
+    width: 500px;
+    margin-right: 100px;
+}

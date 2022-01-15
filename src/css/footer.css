@@ -1,0 +1,8 @@
+* {
+    margin: 0; padding: 0;
+}
+
+.footer-container{
+    width:100%;height: 10px;
+    background-color: black;
+}
