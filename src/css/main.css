@@ -26,3 +26,23 @@
     margin-bottom: 50px;
     background-color: white;
 }
+.gameBoard-container{
+    width:50%;height:50%;
+    float:left;
+    background-color: red;
+}
+.broadcastBoard-container{
+    width:50%;height:50%;
+    clear:right;float:right;
+    background-color: yellow;
+}
+.lifeBoard-container{
+    width:50%;height:50%;
+    float:left;
+    background-color: blue;
+}
+.etcBoard-container{
+    width:50%;height:50%;
+    clear:right;float:left;
+    background-color: green;
+}
