@@ -1,0 +1,28 @@
+* {
+    margin: 0; padding: 0;
+}
+.middle-container{
+    width: 100%;
+    background-color: #ffffff;
+    padding: 10px;
+    font-size: 30px;
+    font-style: initial;
+}
+.main-container{
+    width: 100%;
+    background-color: white;
+}
+.board-container{
+    background-color: silver;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 10px;
+}
+.board-wrap{
+    height: 900px;
+    margin-left:50px;
+    margin-right: 50px;
+    margin-top:100px;
+    margin-bottom: 50px;
+    background-color: white;
+}
